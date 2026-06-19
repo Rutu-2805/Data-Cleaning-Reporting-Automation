@@ -1,0 +1,1031 @@
+OrderID,OrderDate,Product,Category,Quantity,Sales,Region,PaymentMethod,OrderStatus
+1,1/2/2025,Mouse,Electronics,5,3778,South,UPI,Completed
+2,1/3/2025,Phone,electronics,9,13934,North,Credit Card,Pending
+3,1/4/2025,Keyboard,Electronics,1,4665,North,Debit Card,Completed
+4,1/5/2025,Phone,electronics,10,66737,North,Cash,Cancelled
+5,1/6/2025,Keyboard,electronics,7,71926,South,Net Banking,Completed
+6,1/7/2025,Monitor, ELECTRONICS ,3,1351,West,upi,completed
+7,1/8/2025,Tablet, ELECTRONICS ,4,20879,East,UPI,COMPLETED
+8,1/9/2025,Laptop,Electronics,2,50297,East,Credit Card,Pending
+9,1/10/2025,Tablet, ELECTRONICS ,8,6195,North,Cash,Completed
+10,1/11/2025,Monitor,Electronics,5,72857,East,Debit Card,Cancelled
+11,1/12/2025,Keyboard,electronics,1,9616,South,UPI,Completed
+12,1/13/2025,Tablet,Electronics,2,31012,West,Net Banking,Pending
+13,1/14/2025,Tablet,Electronics,3,48319,East,upi,completed
+14,1/15/2025,Tablet,electronics,2,35493,South,Credit Card,COMPLETED
+15,1/16/2025,Keyboard,electronics,8,21917,West,Cash,Completed
+16,1/17/2025,Tablet,electronics,1,43004,South,Debit Card,Pending
+17,1/18/2025,Laptop, ELECTRONICS ,5,53081,North,UPI,Cancelled
+18,1/19/2025,Phone, ELECTRONICS ,8,28369,West,Net Banking,Completed
+19,1/20/2025,Mouse,Electronics,5,19226,South,Credit Card,completed
+20,1/21/2025,Phone, ELECTRONICS ,7,77122,West,Cash,COMPLETED
+21,1/22/2025,Tablet,electronics,9,18631,West,UPI,Pending
+22,1/23/2025,Laptop,Electronics,3,14871,South,Debit Card,Completed
+23,1/24/2025,Mouse,Electronics,2,78672,West,Net Banking,Cancelled
+24,1/25/2025,Monitor,Electronics,5,69852,North,upi,Completed
+25,1/26/2025,Mouse,Electronics,5,70881,East,Credit Card,Pending
+26,1/27/2025,Laptop, ELECTRONICS ,3,57485,West,Cash,completed
+27,1/28/2025,Laptop, ELECTRONICS ,3,66112,North,Debit Card,COMPLETED
+28,1/29/2025,Mouse, ELECTRONICS ,10,67040,South,UPI,Completed
+29,1/30/2025,Phone, ELECTRONICS ,9,21674,North,Net Banking,Pending
+30,1/31/2025,Keyboard, ELECTRONICS ,1,64542,North,Credit Card,Cancelled
+31,2/1/2025,Tablet, ELECTRONICS ,1,31885,South,Cash,Completed
+32,2/2/2025,Keyboard,Electronics,8,11726,North,UPI,completed
+33,2/3/2025,Keyboard,electronics,8,17328,South,Debit Card,Pending
+34,2/4/2025,Tablet,Electronics,9,28260,South,Net Banking,COMPLETED
+35,2/5/2025,Mouse, ELECTRONICS ,6,52796,West,Credit Card,Completed
+36,2/6/2025,Keyboard,Electronics,4,16360,South,Cash,Cancelled
+37,2/7/2025,, ELECTRONICS ,10,3257,South,UPI,Pending
+38,2/8/2025,Keyboard,electronics,2,1442,North,Debit Card,Completed
+39,2/9/2025,Phone,Electronics,6,4617,North,Net Banking,completed
+40,2/10/2025,Keyboard,electronics,8,37000,South,Credit Card,COMPLETED
+41,2/11/2025,Keyboard,electronics,10,,West,Cash,Completed
+42,2/12/2025,Phone,Electronics,4,53854,North,UPI,Cancelled
+43,2/13/2025,Laptop,Electronics,7,46938,West,Debit Card,Pending
+44,2/14/2025,Monitor,Electronics,1,13399,West,Net Banking,Completed
+45,2/15/2025,Mouse, ELECTRONICS ,4,14822,South,Credit Card,completed
+46,2/16/2025,Phone,Electronics,7,18873,South,Cash,COMPLETED
+47,2/17/2025,Tablet,Electronics,2,33242,West,UPI,Completed
+48,2/18/2025,Keyboard,Electronics,9,7130,North,Debit Card,Pending
+49,2/19/2025,Laptop,electronics,7,22298,West,Net Banking,Cancelled
+50,2/20/2025,Monitor,electronics,1,53065,South,Credit Card,Completed
+51,2/21/2025,Monitor,Electronics,5,51673,West,UPI,Completed
+52,2/22/2025,Tablet,Electronics,8,73345,South,Credit Card,Pending
+53,2/23/2025,Phone, ELECTRONICS ,1,29034,North,Debit Card,Completed
+54,2/24/2025,Mouse, ELECTRONICS ,1,7992,West,Cash,Cancelled
+55,2/25/2025,Keyboard,electronics,9,7955,North,Net Banking,Completed
+56,2/26/2025,Phone,Electronics,2,78492,South,upi,completed
+57,2/27/2025,Monitor,Electronics,4,75168,North,UPI,COMPLETED
+58,2/28/2025,Keyboard,Electronics,10,55448,East,Credit Card,Pending
+59,3/1/2025,Tablet,electronics,4,41680,East,Cash,Completed
+60,3/2/2025,Monitor,electronics,8,39821,East,Debit Card,Cancelled
+61,3/3/2025,Laptop,Electronics,10,60568,North,UPI,Completed
+62,3/4/2025,Laptop,electronics,5,66807,South,Net Banking,Pending
+63,3/5/2025,Tablet,Electronics,6,32518,East,upi,completed
+64,3/6/2025,Phone,Electronics,5,71700,North,Credit Card,COMPLETED
+65,3/7/2025,Mouse, ELECTRONICS ,3,14077,East,Cash,Completed
+66,3/8/2025,Laptop,Electronics,3,73012,East,Debit Card,Pending
+67,3/9/2025,Tablet,electronics,4,45442,East,UPI,Cancelled
+68,3/10/2025,Keyboard,Electronics,1,33414,North,Net Banking,Completed
+69,3/11/2025,Mouse,Electronics,1,36765,North,Credit Card,completed
+70,3/12/2025,Tablet,electronics,3,34835,West,Cash,COMPLETED
+71,3/13/2025,Keyboard,Electronics,1,74019,North,UPI,Pending
+72,3/14/2025,Laptop,electronics,1,72011,East,Debit Card,Completed
+73,3/15/2025,Keyboard,electronics,3,56833,North,Net Banking,Cancelled
+74,3/16/2025,, ELECTRONICS ,6,5729,South,upi,Completed
+75,3/17/2025,Mouse,electronics,6,13973,West,Credit Card,Pending
+76,3/18/2025,Keyboard,electronics,3,31529,South,Cash,completed
+77,3/19/2025,Monitor,Electronics,6,24009,West,Debit Card,COMPLETED
+78,3/20/2025,Mouse,electronics,3,35470,North,UPI,Completed
+79,3/21/2025,Monitor,Electronics,4,62194,South,Net Banking,Pending
+80,3/22/2025,Monitor, ELECTRONICS ,4,40501,South,Credit Card,Cancelled
+81,3/23/2025,Laptop,electronics,6,52727,East,Cash,Completed
+82,3/24/2025,Laptop, ELECTRONICS ,9,,West,UPI,completed
+83,3/25/2025,Mouse, ELECTRONICS ,2,4117,East,Debit Card,Pending
+84,3/26/2025,Phone, ELECTRONICS ,2,5514,West,Net Banking,COMPLETED
+85,3/27/2025,Tablet, ELECTRONICS ,10,57699,North,Credit Card,Completed
+86,3/28/2025,Monitor,electronics,1,33886,West,Cash,Cancelled
+87,3/29/2025,Laptop,electronics,7,48239,North,UPI,Pending
+88,3/30/2025,Mouse, ELECTRONICS ,2,41645,East,Debit Card,Completed
+89,3/31/2025,Keyboard, ELECTRONICS ,6,54028,West,Net Banking,completed
+90,4/1/2025,Mouse, ELECTRONICS ,3,73167,South,Credit Card,COMPLETED
+91,4/2/2025,Monitor,Electronics,10,23310,East,Cash,Completed
+92,4/3/2025,Monitor,Electronics,5,40329,South,UPI,Cancelled
+93,4/4/2025,Monitor, ELECTRONICS ,8,61446,West,Debit Card,Pending
+94,4/5/2025,Mouse,electronics,8,67500,South,Net Banking,Completed
+95,4/6/2025,Mouse,Electronics,9,37696,East,Credit Card,completed
+96,4/7/2025,Laptop,electronics,4,41187,South,Cash,COMPLETED
+97,4/8/2025,Phone,Electronics,4,6557,West,UPI,Completed
+98,4/9/2025,Keyboard,Electronics,7,60192,South,Debit Card,Pending
+99,4/10/2025,Mouse,Electronics,7,65299,South,Net Banking,Cancelled
+100,4/11/2025,Phone,Electronics,7,14470,South,Credit Card,Completed
+101,4/12/2025,Phone,Electronics,9,7082,South,UPI,Completed
+102,4/13/2025,Laptop,Electronics,8,17977,East,Credit Card,Pending
+103,4/14/2025,Monitor,Electronics,8,72310,South,Debit Card,Completed
+104,4/15/2025,Mouse,Electronics,5,59491,South,Cash,Cancelled
+105,4/16/2025,Mouse, ELECTRONICS ,8,68827,South,Net Banking,Completed
+106,4/17/2025,Tablet,Electronics,5,10655,South,upi,completed
+107,4/18/2025,Tablet, ELECTRONICS ,9,42404,North,UPI,COMPLETED
+108,4/19/2025,Phone,electronics,7,30811,South,Credit Card,Pending
+109,4/20/2025,Mouse,electronics,7,8918,West,Cash,Completed
+110,4/21/2025,Tablet,Electronics,1,54996,South,Debit Card,Cancelled
+111,4/22/2025,,Electronics,1,77056,West,UPI,Completed
+112,4/23/2025,Monitor,Electronics,5,46605,West,Net Banking,Pending
+113,4/24/2025,Monitor,electronics,4,64493,East,upi,completed
+114,4/25/2025,Monitor,Electronics,7,4304,East,Credit Card,COMPLETED
+115,4/26/2025,Mouse,Electronics,8,22132,South,Cash,Completed
+116,4/27/2025,Keyboard,Electronics,10,52145,North,Debit Card,Pending
+117,4/28/2025,Laptop,Electronics,8,18286,South,UPI,Cancelled
+118,4/29/2025,Laptop, ELECTRONICS ,6,50189,South,Net Banking,Completed
+119,4/30/2025,Monitor, ELECTRONICS ,7,44736,East,Credit Card,completed
+120,5/1/2025,Monitor, ELECTRONICS ,8,11235,North,Cash,COMPLETED
+121,5/2/2025,Mouse,Electronics,4,46370,North,UPI,Pending
+122,5/3/2025,Mouse,Electronics,4,4567,South,Debit Card,Completed
+123,5/4/2025,Laptop,electronics,3,,West,Net Banking,Cancelled
+124,5/5/2025,Mouse,Electronics,4,74420,West,upi,Completed
+125,5/6/2025,Mouse, ELECTRONICS ,3,48851,North,Credit Card,Pending
+126,5/7/2025,Phone, ELECTRONICS ,10,14668,North,Cash,completed
+127,5/8/2025,Tablet,Electronics,4,52490,North,Debit Card,COMPLETED
+128,5/9/2025,Keyboard,electronics,5,13856,North,UPI,Completed
+129,5/10/2025,Keyboard,Electronics,9,46008,West,Net Banking,Pending
+130,5/11/2025,Mouse, ELECTRONICS ,9,9538,East,Credit Card,Cancelled
+131,5/12/2025,Laptop,Electronics,2,64751,West,Cash,Completed
+132,5/13/2025,Tablet,Electronics,7,20552,South,UPI,completed
+133,5/14/2025,Mouse, ELECTRONICS ,8,71039,West,Debit Card,Pending
+134,5/15/2025,Monitor, ELECTRONICS ,4,42745,North,Net Banking,COMPLETED
+135,5/16/2025,Tablet,Electronics,8,32463,West,Credit Card,Completed
+136,5/17/2025,Tablet,Electronics,6,65289,South,Cash,Cancelled
+137,5/18/2025,Monitor,electronics,5,47007,East,UPI,Pending
+138,5/19/2025,Tablet, ELECTRONICS ,1,73348,South,Debit Card,Completed
+139,5/20/2025,Laptop,electronics,8,53771,South,Net Banking,completed
+140,5/21/2025,Mouse,Electronics,8,64832,North,Credit Card,COMPLETED
+141,5/22/2025,Laptop, ELECTRONICS ,7,29545,South,Cash,Completed
+142,5/23/2025,Tablet, ELECTRONICS ,9,62531,East,UPI,Cancelled
+143,5/24/2025,Monitor, ELECTRONICS ,8,46612,East,Debit Card,Pending
+144,5/25/2025,Tablet, ELECTRONICS ,2,30717,South,Net Banking,Completed
+145,5/26/2025,Tablet,Electronics,3,70736,South,Credit Card,completed
+146,5/27/2025,Phone,Electronics,10,36741,East,Cash,COMPLETED
+147,5/28/2025,Laptop,electronics,4,39329,East,UPI,Completed
+148,5/29/2025,, ELECTRONICS ,9,2354,South,Debit Card,Pending
+149,5/30/2025,Tablet,Electronics,9,7646,East,Net Banking,Cancelled
+150,5/31/2025,Mouse,electronics,2,64840,North,Credit Card,Completed
+151,6/1/2025,Keyboard, ELECTRONICS ,8,62024,West,UPI,Completed
+152,6/2/2025,Tablet,electronics,5,7234,West,Credit Card,Pending
+153,6/3/2025,Laptop,Electronics,8,53021,North,Debit Card,Completed
+154,6/4/2025,Keyboard,Electronics,3,20387,East,Cash,Cancelled
+155,6/5/2025,Laptop,electronics,9,16025,West,Net Banking,Completed
+156,6/6/2025,Keyboard,electronics,7,68994,West,upi,completed
+157,6/7/2025,Monitor, ELECTRONICS ,7,77639,East,UPI,COMPLETED
+158,6/8/2025,Keyboard,Electronics,4,13506,South,Credit Card,Pending
+159,6/9/2025,Tablet,Electronics,4,21085,South,Cash,Completed
+160,6/10/2025,Keyboard,Electronics,1,21017,West,Debit Card,Cancelled
+161,6/11/2025,Monitor,Electronics,1,38675,South,UPI,Completed
+162,6/12/2025,Tablet, ELECTRONICS ,2,60010,South,Net Banking,Pending
+163,6/13/2025,Tablet,electronics,2,56223,South,upi,completed
+164,6/14/2025,Mouse,electronics,3,,North,Credit Card,COMPLETED
+165,6/15/2025,Laptop,electronics,10,40819,East,Cash,Completed
+166,6/16/2025,Monitor,Electronics,5,61933,West,Debit Card,Pending
+167,6/17/2025,Tablet,Electronics,2,57877,North,UPI,Cancelled
+168,6/18/2025,Monitor, ELECTRONICS ,5,79629,North,Net Banking,Completed
+169,6/19/2025,Laptop,electronics,10,75892,North,Credit Card,completed
+170,6/20/2025,Mouse, ELECTRONICS ,1,76029,South,Cash,COMPLETED
+171,6/21/2025,Monitor,Electronics,3,36958,West,UPI,Pending
+172,6/22/2025,Mouse,Electronics,8,12459,East,Debit Card,Completed
+173,6/23/2025,Monitor, ELECTRONICS ,2,42581,South,Net Banking,Cancelled
+174,6/24/2025,Tablet,Electronics,5,65442,West,upi,Completed
+175,6/25/2025,Keyboard,Electronics,2,60114,East,Credit Card,Pending
+176,6/26/2025,Tablet, ELECTRONICS ,7,15694,North,Cash,completed
+177,6/27/2025,Mouse,Electronics,1,54665,South,Debit Card,COMPLETED
+178,6/28/2025,Keyboard, ELECTRONICS ,8,65838,North,UPI,Completed
+179,6/29/2025,Phone, ELECTRONICS ,3,72487,East,Net Banking,Pending
+180,6/30/2025,Monitor,Electronics,1,16415,South,Credit Card,Cancelled
+181,7/1/2025,Mouse,electronics,9,41230,North,Cash,Completed
+182,7/2/2025,Keyboard,Electronics,4,12717,North,UPI,completed
+183,7/3/2025,Monitor,Electronics,8,20681,East,Debit Card,Pending
+184,7/4/2025,Keyboard, ELECTRONICS ,8,54959,West,Net Banking,COMPLETED
+185,7/5/2025,,Electronics,3,72755,West,Credit Card,Completed
+186,7/6/2025,Phone,electronics,5,9650,West,Cash,Cancelled
+187,7/7/2025,Tablet, ELECTRONICS ,5,836,East,UPI,Pending
+188,7/8/2025,Keyboard,Electronics,8,19976,West,Debit Card,Completed
+189,7/9/2025,Tablet, ELECTRONICS ,9,72840,West,Net Banking,completed
+190,7/10/2025,Monitor, ELECTRONICS ,4,25227,West,Credit Card,COMPLETED
+191,7/11/2025,Phone,Electronics,6,6220,West,Cash,Completed
+192,7/12/2025,Mouse,Electronics,3,51104,West,UPI,Cancelled
+193,7/13/2025,Laptop,electronics,10,66336,East,Debit Card,Pending
+194,7/14/2025,Laptop,Electronics,9,13569,West,Net Banking,Completed
+195,7/15/2025,Laptop,electronics,3,54236,North,Credit Card,completed
+196,7/16/2025,Monitor, ELECTRONICS ,10,44875,West,Cash,COMPLETED
+197,7/17/2025,Mouse,Electronics,9,43565,West,UPI,Completed
+198,7/18/2025,Tablet,Electronics,1,71412,North,Debit Card,Pending
+199,7/19/2025,Phone, ELECTRONICS ,2,30317,West,Net Banking,Cancelled
+200,7/20/2025,Laptop,Electronics,3,58653,East,Credit Card,Completed
+201,7/21/2025,Laptop,Electronics,1,43016,East,UPI,Completed
+202,7/22/2025,Tablet, ELECTRONICS ,3,56950,South,Credit Card,Pending
+203,7/23/2025,Keyboard,Electronics,3,74677,South,Debit Card,Completed
+204,7/24/2025,Phone,Electronics,10,50640,South,Cash,Cancelled
+205,7/25/2025,Monitor,electronics,8,,East,Net Banking,Completed
+206,7/26/2025,Monitor, ELECTRONICS ,8,1731,East,upi,completed
+207,7/27/2025,Mouse,electronics,8,10181,East,UPI,COMPLETED
+208,7/28/2025,Keyboard, ELECTRONICS ,5,56115,West,Credit Card,Pending
+209,7/29/2025,Tablet,electronics,8,50922,North,Cash,Completed
+210,7/30/2025,Phone,Electronics,6,75463,East,Debit Card,Cancelled
+211,7/31/2025,Mouse, ELECTRONICS ,7,3375,East,UPI,Completed
+212,8/1/2025,Laptop,Electronics,8,79982,East,Net Banking,Pending
+213,8/2/2025,Phone, ELECTRONICS ,4,29205,East,upi,completed
+214,8/3/2025,Mouse,electronics,1,13235,East,Credit Card,COMPLETED
+215,8/4/2025,Monitor,Electronics,6,76465,South,Cash,Completed
+216,8/5/2025,Laptop, ELECTRONICS ,7,43323,South,Debit Card,Pending
+217,8/6/2025,Phone,electronics,6,71201,East,UPI,Cancelled
+218,8/7/2025,Phone, ELECTRONICS ,5,63656,East,Net Banking,Completed
+219,8/8/2025,Laptop,Electronics,3,10369,South,Credit Card,completed
+220,8/9/2025,Mouse,Electronics,6,73548,North,Cash,COMPLETED
+221,8/10/2025,Monitor,Electronics,9,35163,North,UPI,Pending
+222,8/11/2025,, ELECTRONICS ,10,34862,West,Debit Card,Completed
+223,8/12/2025,Mouse, ELECTRONICS ,4,14701,West,Net Banking,Cancelled
+224,8/13/2025,Laptop, ELECTRONICS ,2,29515,West,upi,Completed
+225,8/14/2025,Mouse, ELECTRONICS ,2,54016,South,Credit Card,Pending
+226,8/15/2025,Laptop,Electronics,8,40393,North,Cash,completed
+227,8/16/2025,Laptop,electronics,3,70957,West,Debit Card,COMPLETED
+228,8/17/2025,Monitor, ELECTRONICS ,7,71304,South,UPI,Completed
+229,8/18/2025,Monitor,Electronics,10,64639,West,Net Banking,Pending
+230,8/19/2025,Tablet,Electronics,4,49066,West,Credit Card,Cancelled
+231,8/20/2025,Monitor,electronics,2,48037,East,Cash,Completed
+232,8/21/2025,Keyboard, ELECTRONICS ,7,8436,East,UPI,completed
+233,8/22/2025,Phone,Electronics,2,60100,South,Debit Card,Pending
+234,8/23/2025,Mouse,Electronics,6,7129,South,Net Banking,COMPLETED
+235,8/24/2025,Phone,electronics,9,9492,South,Credit Card,Completed
+236,8/25/2025,Keyboard,electronics,6,31039,South,Cash,Cancelled
+237,8/26/2025,Keyboard,Electronics,3,36842,South,UPI,Pending
+238,8/27/2025,Keyboard, ELECTRONICS ,2,23371,North,Debit Card,Completed
+239,8/28/2025,Phone,Electronics,4,47455,East,Net Banking,completed
+240,8/29/2025,Laptop,electronics,1,35282,South,Credit Card,COMPLETED
+241,8/30/2025,Mouse,Electronics,2,69455,North,Cash,Completed
+242,8/31/2025,Monitor,Electronics,9,47953,North,UPI,Cancelled
+243,9/1/2025,Monitor,electronics,9,6183,East,Debit Card,Pending
+244,9/2/2025,Monitor,Electronics,8,8472,West,Net Banking,Completed
+245,9/3/2025,Monitor,Electronics,8,64760,North,Credit Card,completed
+246,9/4/2025,Laptop, ELECTRONICS ,2,,South,Cash,COMPLETED
+247,9/5/2025,Tablet, ELECTRONICS ,10,50425,East,UPI,Completed
+248,9/6/2025,Monitor,Electronics,2,13499,South,Debit Card,Pending
+249,9/7/2025,Monitor,Electronics,7,30449,East,Net Banking,Cancelled
+250,9/8/2025,Monitor,Electronics,2,55024,East,Credit Card,Completed
+251,9/9/2025,Monitor, ELECTRONICS ,6,33908,South,UPI,Completed
+252,9/10/2025,Mouse,Electronics,2,9299,North,Credit Card,Pending
+253,9/11/2025,Laptop,Electronics,6,13156,South,Debit Card,Completed
+254,9/12/2025,Keyboard,Electronics,9,77369,East,Cash,Cancelled
+255,9/13/2025,Mouse,Electronics,6,54345,West,Net Banking,Completed
+256,9/14/2025,Mouse,Electronics,10,38200,East,upi,completed
+257,9/15/2025,Tablet,Electronics,9,76248,South,UPI,COMPLETED
+258,9/16/2025,Phone,Electronics,2,29892,East,Credit Card,Pending
+259,9/17/2025,, ELECTRONICS ,5,15558,South,Cash,Completed
+260,9/18/2025,Monitor,Electronics,1,35554,South,Debit Card,Cancelled
+261,9/19/2025,Tablet, ELECTRONICS ,6,45041,North,UPI,Completed
+262,9/20/2025,Phone,electronics,7,74728,North,Net Banking,Pending
+263,9/21/2025,Phone,Electronics,9,12526,South,upi,completed
+264,9/22/2025,Monitor,Electronics,6,59960,South,Credit Card,COMPLETED
+265,9/23/2025,Tablet, ELECTRONICS ,10,43017,North,Cash,Completed
+266,9/24/2025,Laptop,electronics,10,21132,North,Debit Card,Pending
+267,9/25/2025,Mouse,Electronics,8,36165,West,UPI,Cancelled
+268,9/26/2025,Monitor,Electronics,5,54787,South,Net Banking,Completed
+269,9/27/2025,Keyboard,Electronics,7,45742,North,Credit Card,completed
+270,9/28/2025,Tablet,Electronics,5,69566,North,Cash,COMPLETED
+271,9/29/2025,Phone,Electronics,1,79054,North,UPI,Pending
+272,9/30/2025,Phone, ELECTRONICS ,3,28186,East,Debit Card,Completed
+273,10/1/2025,Tablet, ELECTRONICS ,1,16226,West,Net Banking,Cancelled
+274,10/2/2025,Mouse,Electronics,3,23528,West,upi,Completed
+275,10/3/2025,Keyboard,electronics,9,66070,East,Credit Card,Pending
+276,10/4/2025,Laptop,Electronics,7,6044,North,Cash,completed
+277,10/5/2025,Monitor,Electronics,10,41533,West,Debit Card,COMPLETED
+278,10/6/2025,Keyboard,Electronics,5,55247,North,UPI,Completed
+279,10/7/2025,Monitor,Electronics,3,43068,West,Net Banking,Pending
+280,10/8/2025,Mouse, ELECTRONICS ,7,12051,North,Credit Card,Cancelled
+281,10/9/2025,Phone,Electronics,7,77684,North,Cash,Completed
+282,10/10/2025,Monitor, ELECTRONICS ,4,45000,East,UPI,completed
+283,10/11/2025,Phone,Electronics,2,67410,South,Debit Card,Pending
+284,10/12/2025,Tablet, ELECTRONICS ,4,19858,North,Net Banking,COMPLETED
+285,10/13/2025,Phone, ELECTRONICS ,3,26356,South,Credit Card,Completed
+286,10/14/2025,Mouse,Electronics,8,23718,West,Cash,Cancelled
+287,10/15/2025,Keyboard,Electronics,10,,East,UPI,Pending
+288,10/16/2025,Mouse, ELECTRONICS ,8,20286,North,Debit Card,Completed
+289,10/17/2025,Monitor,Electronics,5,40191,North,Net Banking,completed
+290,10/18/2025,Tablet,Electronics,8,41185,West,Credit Card,COMPLETED
+291,10/19/2025,Laptop,Electronics,5,48831,North,Cash,Completed
+292,10/20/2025,Mouse,Electronics,9,78367,West,UPI,Cancelled
+293,10/21/2025,Monitor,Electronics,10,59447,South,Debit Card,Pending
+294,10/22/2025,Tablet,Electronics,3,66215,North,Net Banking,Completed
+295,10/23/2025,Monitor,Electronics,2,45515,South,Credit Card,completed
+296,10/24/2025,,electronics,8,57877,South,Cash,COMPLETED
+297,10/25/2025,Tablet, ELECTRONICS ,7,37579,West,UPI,Completed
+298,10/26/2025,Tablet,Electronics,2,44363,East,Debit Card,Pending
+299,10/27/2025,Laptop,Electronics,5,37743,South,Net Banking,Cancelled
+300,10/28/2025,Tablet,Electronics,3,76880,East,Credit Card,Completed
+301,10/29/2025,Tablet,Electronics,10,17401,North,UPI,Completed
+302,10/30/2025,Tablet,Electronics,3,43554,North,Credit Card,Pending
+303,10/31/2025,Mouse,Electronics,6,67148,North,Debit Card,Completed
+304,11/1/2025,Tablet, ELECTRONICS ,4,24127,East,Cash,Cancelled
+305,11/2/2025,Monitor,electronics,3,30193,South,Net Banking,Completed
+306,11/3/2025,Laptop, ELECTRONICS ,9,13756,North,upi,completed
+307,11/4/2025,Mouse, ELECTRONICS ,10,17676,West,UPI,COMPLETED
+308,11/5/2025,Phone,electronics,10,24203,South,Credit Card,Pending
+309,11/6/2025,Mouse,Electronics,7,6226,East,Cash,Completed
+310,11/7/2025,Mouse,electronics,10,58722,East,Debit Card,Cancelled
+311,11/8/2025,Mouse,Electronics,9,31171,South,UPI,Completed
+312,11/9/2025,Tablet,Electronics,6,25930,West,Net Banking,Pending
+313,11/10/2025,Monitor, ELECTRONICS ,9,50552,West,upi,completed
+314,11/11/2025,Phone,electronics,3,79754,East,Credit Card,COMPLETED
+315,11/12/2025,Laptop,Electronics,9,49155,North,Cash,Completed
+316,11/13/2025,Mouse,Electronics,2,37863,South,Debit Card,Pending
+317,11/14/2025,Tablet,Electronics,3,67786,West,UPI,Cancelled
+318,11/15/2025,Laptop,electronics,6,59630,North,Net Banking,Completed
+319,11/16/2025,Monitor,Electronics,9,52464,East,Credit Card,completed
+320,11/17/2025,Phone,Electronics,6,11196,South,Cash,COMPLETED
+321,11/18/2025,Laptop, ELECTRONICS ,6,13487,South,UPI,Pending
+322,11/19/2025,Phone,Electronics,8,38101,South,Debit Card,Completed
+323,11/20/2025,Mouse,Electronics,10,59299,North,Net Banking,Cancelled
+324,11/21/2025,Laptop,Electronics,4,34044,South,upi,Completed
+325,11/22/2025,Keyboard,Electronics,5,15073,South,Credit Card,Pending
+326,11/23/2025,Tablet,Electronics,4,6758,West,Cash,completed
+327,11/24/2025,Mouse,Electronics,2,8732,West,Debit Card,COMPLETED
+328,11/25/2025,Keyboard,Electronics,10,,South,UPI,Completed
+329,11/26/2025,Mouse,electronics,7,38677,North,Net Banking,Pending
+330,11/27/2025,Keyboard, ELECTRONICS ,10,32031,West,Credit Card,Cancelled
+331,11/28/2025,Phone,Electronics,6,69114,North,Cash,Completed
+332,11/29/2025,Keyboard,Electronics,8,51677,North,UPI,completed
+333,11/30/2025,,Electronics,5,49429,North,Debit Card,Pending
+334,12/1/2025,Tablet,Electronics,4,45693,North,Net Banking,COMPLETED
+335,12/2/2025,Keyboard, ELECTRONICS ,1,17986,East,Credit Card,Completed
+336,12/3/2025,Keyboard, ELECTRONICS ,8,23449,West,Cash,Cancelled
+337,12/4/2025,Mouse,electronics,2,18175,West,UPI,Pending
+338,12/5/2025,Laptop, ELECTRONICS ,1,26922,South,Debit Card,Completed
+339,12/6/2025,Laptop, ELECTRONICS ,9,41142,West,Net Banking,completed
+340,12/7/2025,Keyboard,Electronics,1,33702,South,Credit Card,COMPLETED
+341,12/8/2025,Tablet, ELECTRONICS ,6,6765,East,Cash,Completed
+342,12/9/2025,Laptop, ELECTRONICS ,7,57772,West,UPI,Cancelled
+343,12/10/2025,Monitor, ELECTRONICS ,8,24986,West,Debit Card,Pending
+344,12/11/2025,Tablet, ELECTRONICS ,7,11328,North,Net Banking,Completed
+345,12/12/2025,Monitor,electronics,5,71996,East,Credit Card,completed
+346,12/13/2025,Laptop,Electronics,5,43481,East,Cash,COMPLETED
+347,12/14/2025,Monitor,Electronics,8,22342,East,UPI,Completed
+348,12/15/2025,Monitor,Electronics,10,46710,West,Debit Card,Pending
+349,12/16/2025,Tablet,Electronics,7,10335,East,Net Banking,Cancelled
+350,12/17/2025,Keyboard,electronics,3,4581,West,Credit Card,Completed
+351,12/18/2025,Laptop,electronics,4,9312,East,UPI,Completed
+352,12/19/2025,Tablet,Electronics,1,74849,South,Credit Card,Pending
+353,12/20/2025,Mouse,Electronics,6,49123,West,Debit Card,Completed
+354,12/21/2025,Laptop,electronics,6,69897,West,Cash,Cancelled
+355,12/22/2025,Tablet, ELECTRONICS ,2,33217,North,Net Banking,Completed
+356,12/23/2025,Mouse,electronics,9,65910,West,upi,completed
+357,12/24/2025,Keyboard,Electronics,5,34811,West,UPI,COMPLETED
+358,12/25/2025,Phone, ELECTRONICS ,4,64882,North,Credit Card,Pending
+359,12/26/2025,Phone,Electronics,3,59750,West,Cash,Completed
+360,12/27/2025,Laptop, ELECTRONICS ,2,46037,East,Debit Card,Cancelled
+361,12/28/2025,Tablet,electronics,6,23318,South,UPI,Completed
+362,12/29/2025,Laptop,electronics,4,18702,West,Net Banking,Pending
+363,12/30/2025,Laptop, ELECTRONICS ,10,73116,East,upi,completed
+364,12/31/2025,Monitor,electronics,2,11800,East,Credit Card,COMPLETED
+365,1/1/2025,Monitor,Electronics,7,69403,West,Cash,Completed
+366,1/2/2025,Keyboard,Electronics,6,16926,North,Debit Card,Pending
+367,1/3/2025,Monitor,Electronics,6,68311,South,UPI,Cancelled
+368,1/4/2025,Keyboard,electronics,7,17412,North,Net Banking,Completed
+369,1/5/2025,Laptop,electronics,3,,South,Credit Card,completed
+370,1/6/2025,,electronics,9,45853,East,Cash,COMPLETED
+371,1/7/2025,Laptop, ELECTRONICS ,9,26229,East,UPI,Pending
+372,1/8/2025,Phone, ELECTRONICS ,2,70424,South,Debit Card,Completed
+373,1/9/2025,Keyboard,electronics,10,22939,East,Net Banking,Cancelled
+374,1/10/2025,Keyboard,Electronics,2,4218,North,upi,Completed
+375,1/11/2025,Mouse, ELECTRONICS ,10,28131,West,Credit Card,Pending
+376,1/12/2025,Keyboard,Electronics,9,65778,East,Cash,completed
+377,1/13/2025,Mouse, ELECTRONICS ,4,63800,West,Debit Card,COMPLETED
+378,1/14/2025,Tablet,Electronics,1,10064,South,UPI,Completed
+379,1/15/2025,Monitor,Electronics,8,63971,South,Net Banking,Pending
+380,1/16/2025,Tablet,electronics,6,41470,East,Credit Card,Cancelled
+381,1/17/2025,Monitor,electronics,9,49067,North,Cash,Completed
+382,1/18/2025,Tablet,electronics,2,61641,East,UPI,completed
+383,1/19/2025,Monitor,electronics,2,18965,North,Debit Card,Pending
+384,1/20/2025,Tablet,Electronics,4,55305,South,Net Banking,COMPLETED
+385,1/21/2025,Tablet, ELECTRONICS ,3,25381,West,Credit Card,Completed
+386,1/22/2025,Keyboard,Electronics,5,65873,West,Cash,Cancelled
+387,1/23/2025,Laptop,Electronics,9,52043,West,UPI,Pending
+388,1/24/2025,Phone,electronics,6,76960,North,Debit Card,Completed
+389,1/25/2025,Laptop, ELECTRONICS ,10,65366,West,Net Banking,completed
+390,1/26/2025,Tablet,Electronics,7,14589,South,Credit Card,COMPLETED
+391,1/27/2025,Tablet, ELECTRONICS ,6,53355,North,Cash,Completed
+392,1/28/2025,Monitor,Electronics,9,75247,South,UPI,Cancelled
+393,1/29/2025,Tablet, ELECTRONICS ,7,10137,West,Debit Card,Pending
+394,1/30/2025,Keyboard, ELECTRONICS ,3,16072,North,Net Banking,Completed
+395,1/31/2025,Monitor, ELECTRONICS ,9,44944,East,Credit Card,completed
+396,2/1/2025,Phone,electronics,9,79466,West,Cash,COMPLETED
+397,2/2/2025,Keyboard,Electronics,1,6438,South,UPI,Completed
+398,2/3/2025,Mouse, ELECTRONICS ,9,62594,West,Debit Card,Pending
+399,2/4/2025,Phone,electronics,10,43487,East,Net Banking,Cancelled
+400,2/5/2025,Phone,Electronics,10,39721,East,Credit Card,Completed
+401,2/6/2025,Keyboard,Electronics,5,74283,West,UPI,Completed
+402,2/7/2025,Laptop, ELECTRONICS ,2,43916,West,Credit Card,Pending
+403,2/8/2025,Keyboard, ELECTRONICS ,10,3992,West,Debit Card,Completed
+404,2/9/2025,Tablet,electronics,10,7231,West,Cash,Cancelled
+405,2/10/2025,Phone,Electronics,4,19869,North,Net Banking,Completed
+406,2/11/2025,Keyboard,Electronics,1,25506,West,upi,completed
+407,2/12/2025,,Electronics,7,20348,South,UPI,COMPLETED
+408,2/13/2025,Monitor,Electronics,3,8663,South,Credit Card,Pending
+409,2/14/2025,Keyboard, ELECTRONICS ,9,63201,West,Cash,Completed
+410,2/15/2025,Tablet,electronics,9,,East,Debit Card,Cancelled
+411,2/16/2025,Keyboard, ELECTRONICS ,10,35150,West,UPI,Completed
+412,2/17/2025,Phone,electronics,9,37069,East,Net Banking,Pending
+413,2/18/2025,Phone, ELECTRONICS ,4,38380,West,upi,completed
+414,2/19/2025,Tablet,Electronics,9,46218,East,Credit Card,COMPLETED
+415,2/20/2025,Tablet,Electronics,9,75666,West,Cash,Completed
+416,2/21/2025,Monitor, ELECTRONICS ,5,19698,North,Debit Card,Pending
+417,2/22/2025,Tablet,Electronics,8,45898,East,UPI,Cancelled
+418,2/23/2025,Mouse,Electronics,4,28547,East,Net Banking,Completed
+419,2/24/2025,Keyboard, ELECTRONICS ,2,18492,South,Credit Card,completed
+420,2/25/2025,Phone,Electronics,4,70104,South,Cash,COMPLETED
+421,2/26/2025,Laptop,Electronics,6,54672,West,UPI,Pending
+422,2/27/2025,Laptop,electronics,9,1179,South,Debit Card,Completed
+423,2/28/2025,Monitor,Electronics,4,63080,East,Net Banking,Cancelled
+424,3/1/2025,Tablet, ELECTRONICS ,2,8254,South,upi,Completed
+425,3/2/2025,Keyboard,Electronics,7,23446,South,Credit Card,Pending
+426,3/3/2025,Laptop,Electronics,3,65430,East,Cash,completed
+427,3/4/2025,Laptop,Electronics,10,39610,North,Debit Card,COMPLETED
+428,3/5/2025,Tablet, ELECTRONICS ,9,60052,West,UPI,Completed
+429,3/6/2025,Phone,Electronics,4,36261,North,Net Banking,Pending
+430,3/7/2025,Tablet,electronics,5,60650,South,Credit Card,Cancelled
+431,3/8/2025,Laptop, ELECTRONICS ,10,39169,South,Cash,Completed
+432,3/9/2025,Phone,Electronics,9,56559,East,UPI,completed
+433,3/10/2025,Laptop,Electronics,3,13002,South,Debit Card,Pending
+434,3/11/2025,Monitor, ELECTRONICS ,1,33012,East,Net Banking,COMPLETED
+435,3/12/2025,Monitor,electronics,5,59054,East,Credit Card,Completed
+436,3/13/2025,Tablet,Electronics,6,34782,South,Cash,Cancelled
+437,3/14/2025,Laptop,Electronics,5,61500,South,UPI,Pending
+438,3/15/2025,Monitor, ELECTRONICS ,5,15889,East,Debit Card,Completed
+439,3/16/2025,Keyboard,electronics,3,29221,West,Net Banking,completed
+440,3/17/2025,Phone,Electronics,6,79895,West,Credit Card,COMPLETED
+441,3/18/2025,Mouse,Electronics,4,70953,South,Cash,Completed
+442,3/19/2025,Mouse,Electronics,8,69379,East,UPI,Cancelled
+443,3/20/2025,Laptop,Electronics,9,8594,South,Debit Card,Pending
+444,3/21/2025,,electronics,6,22066,West,Net Banking,Completed
+445,3/22/2025,Laptop,electronics,8,76934,North,Credit Card,completed
+446,3/23/2025,Keyboard,Electronics,8,7792,South,Cash,COMPLETED
+447,3/24/2025,Keyboard,Electronics,10,60373,North,UPI,Completed
+448,3/25/2025,Keyboard,Electronics,1,40892,West,Debit Card,Pending
+449,3/26/2025,Tablet,Electronics,10,29060,North,Net Banking,Cancelled
+450,3/27/2025,Laptop,Electronics,2,45658,North,Credit Card,Completed
+451,3/28/2025,Laptop,Electronics,5,,West,UPI,Completed
+452,3/29/2025,Phone,electronics,6,55597,West,Credit Card,Pending
+453,3/30/2025,Monitor,Electronics,2,49736,South,Debit Card,Completed
+454,3/31/2025,Mouse, ELECTRONICS ,3,16049,West,Cash,Cancelled
+455,4/1/2025,Keyboard,electronics,1,29688,North,Net Banking,Completed
+456,4/2/2025,Tablet,Electronics,7,71861,West,upi,completed
+457,4/3/2025,Phone,electronics,6,60875,South,UPI,COMPLETED
+458,4/4/2025,Tablet,electronics,1,15290,West,Credit Card,Pending
+459,4/5/2025,Keyboard,Electronics,4,32044,North,Cash,Completed
+460,4/6/2025,Laptop,Electronics,10,59015,North,Debit Card,Cancelled
+461,4/7/2025,Phone,Electronics,8,53225,South,UPI,Completed
+462,4/8/2025,Keyboard,electronics,3,7898,East,Net Banking,Pending
+463,4/9/2025,Phone, ELECTRONICS ,10,76190,East,upi,completed
+464,4/10/2025,Phone, ELECTRONICS ,9,19277,South,Credit Card,COMPLETED
+465,4/11/2025,Monitor, ELECTRONICS ,1,36564,South,Cash,Completed
+466,4/12/2025,Mouse,Electronics,8,73356,North,Debit Card,Pending
+467,4/13/2025,Tablet,Electronics,6,69242,West,UPI,Cancelled
+468,4/14/2025,Monitor,electronics,7,39806,South,Net Banking,Completed
+469,4/15/2025,Keyboard,Electronics,4,32084,East,Credit Card,completed
+470,4/16/2025,Mouse,electronics,1,61189,West,Cash,COMPLETED
+471,4/17/2025,Monitor,electronics,4,51410,East,UPI,Pending
+472,4/18/2025,Phone, ELECTRONICS ,8,10863,East,Debit Card,Completed
+473,4/19/2025,Laptop,electronics,5,7255,West,Net Banking,Cancelled
+474,4/20/2025,Mouse,Electronics,4,10039,South,upi,Completed
+475,4/21/2025,Monitor,electronics,5,44142,North,Credit Card,Pending
+476,4/22/2025,Phone,electronics,8,15876,South,Cash,completed
+477,4/23/2025,Mouse,electronics,4,52487,East,Debit Card,COMPLETED
+478,4/24/2025,Tablet,Electronics,9,61612,East,UPI,Completed
+479,4/25/2025,Tablet, ELECTRONICS ,9,47639,West,Net Banking,Pending
+480,4/26/2025,Monitor,Electronics,6,62037,South,Credit Card,Cancelled
+481,4/27/2025,, ELECTRONICS ,1,54754,South,Cash,Completed
+482,4/28/2025,Mouse,electronics,5,2625,West,UPI,completed
+483,4/29/2025,Tablet,electronics,6,26215,South,Debit Card,Pending
+484,4/30/2025,Monitor,electronics,9,65944,East,Net Banking,COMPLETED
+485,5/1/2025,Tablet,Electronics,8,64803,South,Credit Card,Completed
+486,5/2/2025,Mouse, ELECTRONICS ,3,22685,West,Cash,Cancelled
+487,5/3/2025,Phone,Electronics,1,69174,North,UPI,Pending
+488,5/4/2025,Mouse,Electronics,7,1336,South,Debit Card,Completed
+489,5/5/2025,Mouse,electronics,3,9408,North,Net Banking,completed
+490,5/6/2025,Phone,Electronics,1,49416,West,Credit Card,COMPLETED
+491,5/7/2025,Mouse,Electronics,1,2561,West,Cash,Completed
+492,5/8/2025,Laptop,Electronics,5,,East,UPI,Cancelled
+493,5/9/2025,Laptop,Electronics,2,23996,North,Debit Card,Pending
+494,5/10/2025,Keyboard,electronics,4,32084,East,Net Banking,Completed
+495,5/11/2025,Tablet, ELECTRONICS ,2,52522,East,Credit Card,completed
+496,5/12/2025,Monitor,Electronics,4,74555,South,Cash,COMPLETED
+497,5/13/2025,Tablet,Electronics,2,4652,West,UPI,Completed
+498,5/14/2025,Monitor,Electronics,8,72943,North,Debit Card,Pending
+499,5/15/2025,Mouse,Electronics,2,22963,West,Net Banking,Cancelled
+500,5/16/2025,Monitor, ELECTRONICS ,2,74667,North,Credit Card,Completed
+501,5/17/2025,Phone,electronics,8,74789,East,UPI,Completed
+502,5/18/2025,Laptop,Electronics,9,37249,North,Credit Card,Pending
+503,5/19/2025,Phone, ELECTRONICS ,4,2552,South,Debit Card,Completed
+504,5/20/2025,Mouse,Electronics,5,10584,South,Cash,Cancelled
+505,5/21/2025,Keyboard,electronics,7,74777,East,Net Banking,Completed
+506,5/22/2025,Monitor,electronics,9,10779,East,upi,completed
+507,5/23/2025,Laptop,Electronics,4,57790,North,UPI,COMPLETED
+508,5/24/2025,Tablet,Electronics,1,43278,East,Credit Card,Pending
+509,5/25/2025,Monitor,Electronics,6,30402,West,Cash,Completed
+510,5/26/2025,Monitor,electronics,7,77291,North,Debit Card,Cancelled
+511,5/27/2025,Keyboard, ELECTRONICS ,2,32802,North,UPI,Completed
+512,5/28/2025,Tablet,electronics,3,50307,West,Net Banking,Pending
+513,5/29/2025,Tablet, ELECTRONICS ,2,14465,North,upi,completed
+514,5/30/2025,Tablet,Electronics,5,47675,North,Credit Card,COMPLETED
+515,5/31/2025,Phone,Electronics,7,25061,West,Cash,Completed
+516,6/1/2025,Keyboard,Electronics,1,14038,North,Debit Card,Pending
+517,6/2/2025,Tablet,Electronics,10,78740,East,UPI,Cancelled
+518,6/3/2025,,Electronics,7,38753,West,Net Banking,Completed
+519,6/4/2025,Laptop,electronics,9,75467,South,Credit Card,completed
+520,6/5/2025,Mouse,Electronics,3,22716,East,Cash,COMPLETED
+521,6/6/2025,Tablet, ELECTRONICS ,3,65134,North,UPI,Pending
+522,6/7/2025,Phone,Electronics,7,36670,East,Debit Card,Completed
+523,6/8/2025,Monitor,Electronics,5,47833,South,Net Banking,Cancelled
+524,6/9/2025,Mouse,Electronics,10,78331,South,upi,Completed
+525,6/10/2025,Monitor,Electronics,5,18258,North,Credit Card,Pending
+526,6/11/2025,Monitor, ELECTRONICS ,6,50292,West,Cash,completed
+527,6/12/2025,Tablet,Electronics,3,78408,East,Debit Card,COMPLETED
+528,6/13/2025,Tablet,electronics,6,63284,South,UPI,Completed
+529,6/14/2025,Monitor, ELECTRONICS ,8,38700,South,Net Banking,Pending
+530,6/15/2025,Tablet,Electronics,7,37239,East,Credit Card,Cancelled
+531,6/16/2025,Laptop,electronics,9,78124,South,Cash,Completed
+532,6/17/2025,Mouse,Electronics,4,61005,West,UPI,completed
+533,6/18/2025,Tablet,Electronics,8,,South,Debit Card,Pending
+534,6/19/2025,Mouse, ELECTRONICS ,5,32222,South,Net Banking,COMPLETED
+535,6/20/2025,Mouse,Electronics,2,49912,West,Credit Card,Completed
+536,6/21/2025,Keyboard,Electronics,7,76815,West,Cash,Cancelled
+537,6/22/2025,Keyboard,Electronics,9,47624,North,UPI,Pending
+538,6/23/2025,Laptop,electronics,3,47031,North,Debit Card,Completed
+539,6/24/2025,Keyboard,Electronics,7,43963,North,Net Banking,completed
+540,6/25/2025,Laptop,Electronics,4,34413,South,Credit Card,COMPLETED
+541,6/26/2025,Monitor, ELECTRONICS ,8,51766,South,Cash,Completed
+542,6/27/2025,Tablet,Electronics,2,63777,East,UPI,Cancelled
+543,6/28/2025,Monitor,Electronics,3,15713,East,Debit Card,Pending
+544,6/29/2025,Tablet, ELECTRONICS ,4,60181,West,Net Banking,Completed
+545,6/30/2025,Tablet,Electronics,8,13295,West,Credit Card,completed
+546,7/1/2025,Tablet,Electronics,1,39856,North,Cash,COMPLETED
+547,7/2/2025,Laptop, ELECTRONICS ,3,14834,South,UPI,Completed
+548,7/3/2025,Keyboard,electronics,3,72839,East,Debit Card,Pending
+549,7/4/2025,Keyboard,Electronics,4,61062,West,Net Banking,Cancelled
+550,7/5/2025,Mouse,electronics,7,24930,West,Credit Card,Completed
+551,7/6/2025,Laptop,electronics,10,59426,West,UPI,Completed
+552,7/7/2025,Monitor,Electronics,4,28653,East,Credit Card,Pending
+553,7/8/2025,Mouse,Electronics,2,76174,South,Debit Card,Completed
+554,7/9/2025,Tablet, ELECTRONICS ,8,26330,North,Cash,Cancelled
+555,7/10/2025,,Electronics,6,69668,West,Net Banking,Completed
+556,7/11/2025,Keyboard,Electronics,2,77439,East,upi,completed
+557,7/12/2025,Tablet,Electronics,5,23113,North,UPI,COMPLETED
+558,7/13/2025,Mouse,electronics,2,41549,South,Credit Card,Pending
+559,7/14/2025,Tablet,Electronics,6,24492,South,Cash,Completed
+560,7/15/2025,Keyboard,Electronics,10,55319,South,Debit Card,Cancelled
+561,7/16/2025,Keyboard,Electronics,3,55948,West,UPI,Completed
+562,7/17/2025,Mouse,electronics,3,73233,West,Net Banking,Pending
+563,7/18/2025,Tablet,electronics,6,25023,West,upi,completed
+564,7/19/2025,Keyboard,Electronics,1,47559,West,Credit Card,COMPLETED
+565,7/20/2025,Phone,electronics,9,50824,West,Cash,Completed
+566,7/21/2025,Monitor,Electronics,8,54977,West,Debit Card,Pending
+567,7/22/2025,Phone,Electronics,1,74607,South,UPI,Cancelled
+568,7/23/2025,Tablet,Electronics,4,36525,East,Net Banking,Completed
+569,7/24/2025,Phone,Electronics,8,74640,North,Credit Card,completed
+570,7/25/2025,Keyboard,Electronics,9,35612,East,Cash,COMPLETED
+571,7/26/2025,Keyboard,Electronics,9,58350,South,UPI,Pending
+572,7/27/2025,Monitor,Electronics,5,32944,North,Debit Card,Completed
+573,7/28/2025,Monitor, ELECTRONICS ,2,46188,West,Net Banking,Cancelled
+574,7/29/2025,Laptop,electronics,10,,East,upi,Completed
+575,7/30/2025,Mouse,Electronics,10,22255,South,Credit Card,Pending
+576,7/31/2025,Phone,electronics,10,8280,East,Cash,completed
+577,8/1/2025,Keyboard, ELECTRONICS ,9,78731,South,Debit Card,COMPLETED
+578,8/2/2025,Tablet, ELECTRONICS ,10,38423,East,UPI,Completed
+579,8/3/2025,Keyboard,Electronics,7,18271,North,Net Banking,Pending
+580,8/4/2025,Tablet,electronics,4,17892,South,Credit Card,Cancelled
+581,8/5/2025,Mouse, ELECTRONICS ,7,32947,West,Cash,Completed
+582,8/6/2025,Phone, ELECTRONICS ,7,54793,West,UPI,completed
+583,8/7/2025,Laptop,Electronics,9,53302,East,Debit Card,Pending
+584,8/8/2025,Mouse, ELECTRONICS ,8,60097,East,Net Banking,COMPLETED
+585,8/9/2025,Keyboard,Electronics,8,12708,East,Credit Card,Completed
+586,8/10/2025,Laptop,Electronics,7,29051,South,Cash,Cancelled
+587,8/11/2025,Monitor, ELECTRONICS ,5,42818,East,UPI,Pending
+588,8/12/2025,Keyboard,electronics,8,74705,East,Debit Card,Completed
+589,8/13/2025,Mouse,Electronics,2,6521,West,Net Banking,completed
+590,8/14/2025,Laptop,Electronics,8,21207,West,Credit Card,COMPLETED
+591,8/15/2025,Laptop,Electronics,3,27018,East,Cash,Completed
+592,8/16/2025,, ELECTRONICS ,6,12734,East,UPI,Cancelled
+593,8/17/2025,Laptop, ELECTRONICS ,1,22195,West,Debit Card,Pending
+594,8/18/2025,Mouse, ELECTRONICS ,7,31189,North,Net Banking,Completed
+595,8/19/2025,Mouse,Electronics,4,642,West,Credit Card,completed
+596,8/20/2025,Laptop,electronics,4,78314,West,Cash,COMPLETED
+597,8/21/2025,Laptop,Electronics,2,45532,West,UPI,Completed
+598,8/22/2025,Mouse,electronics,2,63113,South,Debit Card,Pending
+599,8/23/2025,Monitor,Electronics,2,13925,East,Net Banking,Cancelled
+600,8/24/2025,Tablet, ELECTRONICS ,7,18473,South,Credit Card,Completed
+601,8/25/2025,Mouse,electronics,9,9466,North,UPI,Completed
+602,8/26/2025,Keyboard,electronics,6,58184,South,Credit Card,Pending
+603,8/27/2025,Mouse,electronics,10,54463,West,Debit Card,Completed
+604,8/28/2025,Phone,Electronics,3,13668,North,Cash,Cancelled
+605,8/29/2025,Keyboard,Electronics,7,46576,East,Net Banking,Completed
+606,8/30/2025,Phone,electronics,2,36802,South,upi,completed
+607,8/31/2025,Keyboard, ELECTRONICS ,5,4015,South,UPI,COMPLETED
+608,9/1/2025,Keyboard,electronics,5,51847,North,Credit Card,Pending
+609,9/2/2025,Phone,Electronics,2,51078,South,Cash,Completed
+610,9/3/2025,Monitor,Electronics,1,69743,East,Debit Card,Cancelled
+611,9/4/2025,Tablet,electronics,10,51203,West,UPI,Completed
+612,9/5/2025,Tablet,electronics,2,62236,North,Net Banking,Pending
+613,9/6/2025,Keyboard,Electronics,5,2307,South,upi,completed
+614,9/7/2025,Laptop,Electronics,9,52663,East,Credit Card,COMPLETED
+615,9/8/2025,Mouse,Electronics,7,,North,Cash,Completed
+616,9/9/2025,Mouse,electronics,2,36868,East,Debit Card,Pending
+617,9/10/2025,Laptop,electronics,9,20865,East,UPI,Cancelled
+618,9/11/2025,Monitor,Electronics,7,41154,South,Net Banking,Completed
+619,9/12/2025,Laptop,electronics,7,11800,North,Credit Card,completed
+620,9/13/2025,Monitor,Electronics,3,41039,North,Cash,COMPLETED
+621,9/14/2025,Laptop,electronics,3,1987,West,UPI,Pending
+622,9/15/2025,Tablet, ELECTRONICS ,6,22384,South,Debit Card,Completed
+623,9/16/2025,Mouse, ELECTRONICS ,1,15973,East,Net Banking,Cancelled
+624,9/17/2025,Monitor, ELECTRONICS ,2,69162,East,upi,Completed
+625,9/18/2025,Mouse,Electronics,8,65531,East,Credit Card,Pending
+626,9/19/2025,Laptop,Electronics,3,74802,East,Cash,completed
+627,9/20/2025,Phone, ELECTRONICS ,10,13987,North,Debit Card,COMPLETED
+628,9/21/2025,Phone,Electronics,1,6272,South,UPI,Completed
+629,9/22/2025,,Electronics,7,48207,South,Net Banking,Pending
+630,9/23/2025,Phone,Electronics,7,72965,South,Credit Card,Cancelled
+631,9/24/2025,Tablet,electronics,6,55059,East,Cash,Completed
+632,9/25/2025,Laptop, ELECTRONICS ,9,16150,North,UPI,completed
+633,9/26/2025,Phone,electronics,1,68103,West,Debit Card,Pending
+634,9/27/2025,Laptop,Electronics,5,37502,East,Net Banking,COMPLETED
+635,9/28/2025,Laptop,Electronics,6,1544,South,Credit Card,Completed
+636,9/29/2025,Tablet, ELECTRONICS ,8,32295,East,Cash,Cancelled
+637,9/30/2025,Keyboard,Electronics,9,26114,South,UPI,Pending
+638,10/1/2025,Phone,Electronics,1,54244,South,Debit Card,Completed
+639,10/2/2025,Keyboard, ELECTRONICS ,6,1757,North,Net Banking,completed
+640,10/3/2025,Mouse,Electronics,2,40806,South,Credit Card,COMPLETED
+641,10/4/2025,Keyboard,electronics,8,55526,North,Cash,Completed
+642,10/5/2025,Phone, ELECTRONICS ,1,12693,South,UPI,Cancelled
+643,10/6/2025,Keyboard,Electronics,8,49323,North,Debit Card,Pending
+644,10/7/2025,Keyboard,Electronics,3,66747,West,Net Banking,Completed
+645,10/8/2025,Laptop,Electronics,3,57514,South,Credit Card,completed
+646,10/9/2025,Tablet, ELECTRONICS ,7,41788,East,Cash,COMPLETED
+647,10/10/2025,Tablet,Electronics,4,36145,North,UPI,Completed
+648,10/11/2025,Phone,electronics,2,77138,South,Debit Card,Pending
+649,10/12/2025,Laptop,electronics,8,59425,East,Net Banking,Cancelled
+650,10/13/2025,Monitor,Electronics,6,70744,South,Credit Card,Completed
+651,10/14/2025,Monitor, ELECTRONICS ,5,61231,North,UPI,Completed
+652,10/15/2025,Laptop,electronics,10,40374,North,Credit Card,Pending
+653,10/16/2025,Phone, ELECTRONICS ,2,19941,South,Debit Card,Completed
+654,10/17/2025,Tablet,Electronics,1,67800,East,Cash,Cancelled
+655,10/18/2025,Tablet,electronics,7,4573,West,Net Banking,Completed
+656,10/19/2025,Keyboard,electronics,8,,North,upi,completed
+657,10/20/2025,Phone,Electronics,1,2067,South,UPI,COMPLETED
+658,10/21/2025,Phone,electronics,6,53005,North,Credit Card,Pending
+659,10/22/2025,Keyboard, ELECTRONICS ,1,10328,North,Cash,Completed
+660,10/23/2025,Phone,Electronics,2,17380,East,Debit Card,Cancelled
+661,10/24/2025,Laptop,Electronics,1,60923,South,UPI,Completed
+662,10/25/2025,Keyboard,Electronics,8,52273,North,Net Banking,Pending
+663,10/26/2025,Monitor,Electronics,6,23150,South,upi,completed
+664,10/27/2025,Phone, ELECTRONICS ,8,37181,South,Credit Card,COMPLETED
+665,10/28/2025,Laptop,electronics,8,39180,West,Cash,Completed
+666,10/29/2025,,Electronics,2,8492,East,Debit Card,Pending
+667,10/30/2025,Monitor,electronics,4,55449,South,UPI,Cancelled
+668,10/31/2025,Mouse,Electronics,6,50634,West,Net Banking,Completed
+669,11/1/2025,Keyboard,Electronics,10,45593,East,Credit Card,completed
+670,11/2/2025,Monitor, ELECTRONICS ,1,24068,East,Cash,COMPLETED
+671,11/3/2025,Keyboard,electronics,5,4340,North,UPI,Pending
+672,11/4/2025,Monitor, ELECTRONICS ,4,77044,South,Debit Card,Completed
+673,11/5/2025,Laptop,electronics,5,32108,North,Net Banking,Cancelled
+674,11/6/2025,Phone,Electronics,3,47004,South,upi,Completed
+675,11/7/2025,Phone, ELECTRONICS ,10,47526,North,Credit Card,Pending
+676,11/8/2025,Mouse, ELECTRONICS ,10,74903,South,Cash,completed
+677,11/9/2025,Keyboard,electronics,9,65017,East,Debit Card,COMPLETED
+678,11/10/2025,Phone,Electronics,2,5475,North,UPI,Completed
+679,11/11/2025,Phone,electronics,9,3112,West,Net Banking,Pending
+680,11/12/2025,Laptop, ELECTRONICS ,3,26906,East,Credit Card,Cancelled
+681,11/13/2025,Mouse,electronics,1,42913,North,Cash,Completed
+682,11/14/2025,Phone,electronics,9,15038,East,UPI,completed
+683,11/15/2025,Laptop, ELECTRONICS ,10,52351,North,Debit Card,Pending
+684,11/16/2025,Tablet, ELECTRONICS ,3,42784,South,Net Banking,COMPLETED
+685,11/17/2025,Mouse,Electronics,6,64358,South,Credit Card,Completed
+686,11/18/2025,Mouse, ELECTRONICS ,10,29760,South,Cash,Cancelled
+687,11/19/2025,Monitor, ELECTRONICS ,3,39102,South,UPI,Pending
+688,11/20/2025,Mouse,Electronics,7,75582,North,Debit Card,Completed
+689,11/21/2025,Phone, ELECTRONICS ,10,29453,North,Net Banking,completed
+690,11/22/2025,Monitor,electronics,2,43906,South,Credit Card,COMPLETED
+691,11/23/2025,Tablet, ELECTRONICS ,2,22505,East,Cash,Completed
+692,11/24/2025,Monitor,Electronics,4,35261,South,UPI,Cancelled
+693,11/25/2025,Mouse,Electronics,5,46438,North,Debit Card,Pending
+694,11/26/2025,Mouse,Electronics,7,6810,West,Net Banking,Completed
+695,11/27/2025,Mouse,Electronics,7,22302,West,Credit Card,completed
+696,11/28/2025,Monitor, ELECTRONICS ,7,72068,North,Cash,COMPLETED
+697,11/29/2025,Monitor,electronics,8,,North,UPI,
+698,11/30/2025,Laptop, ELECTRONICS ,6,3131,East,Debit Card,Pending
+699,12/1/2025,Laptop,Electronics,3,45301,West,Net Banking,Cancelled
+700,12/2/2025,Phone,Electronics,2,72202,East,Credit Card,Completed
+701,12/3/2025,Keyboard,Electronics,7,4562,South,UPI,Completed
+702,12/4/2025,Keyboard,Electronics,1,21091,North,Credit Card,Pending
+703,12/5/2025,,electronics,7,25401,East,Debit Card,Completed
+704,12/6/2025,Mouse, ELECTRONICS ,4,39480,North,Cash,Cancelled
+705,12/7/2025,Laptop,Electronics,9,75443,West,Net Banking,Completed
+706,12/8/2025,Phone,Electronics,1,47794,West,upi,completed
+707,12/9/2025,Laptop, ELECTRONICS ,8,79171,South,UPI,COMPLETED
+708,12/10/2025,Laptop,Electronics,3,27625,East,Credit Card,Pending
+709,12/11/2025,Laptop,Electronics,5,15639,West,Cash,Completed
+710,12/12/2025,Monitor,Electronics,2,35234,West,Debit Card,Cancelled
+711,12/13/2025,Phone, ELECTRONICS ,6,50496,South,UPI,Completed
+712,12/14/2025,Monitor,Electronics,8,35010,West,Net Banking,Pending
+713,12/15/2025,Tablet,electronics,10,35700,North,upi,completed
+714,12/16/2025,Phone,Electronics,6,11733,West,Credit Card,COMPLETED
+715,12/17/2025,Keyboard,electronics,1,73061,West,Cash,Completed
+716,12/18/2025,Keyboard,Electronics,8,70690,South,Debit Card,Pending
+717,12/19/2025,Monitor, ELECTRONICS ,7,10848,North,UPI,Cancelled
+718,12/20/2025,Keyboard,electronics,8,16265,South,Net Banking,Completed
+719,12/21/2025,Phone,electronics,3,25760,North,Credit Card,completed
+720,12/22/2025,Monitor,Electronics,4,57567,South,Cash,COMPLETED
+721,12/23/2025,Keyboard, ELECTRONICS ,2,42410,North,UPI,Pending
+722,12/24/2025,Monitor,Electronics,6,72858,East,Debit Card,Completed
+723,12/25/2025,Keyboard,Electronics,10,2120,West,Net Banking,Cancelled
+724,12/26/2025,Laptop,Electronics,3,20113,North,upi,Completed
+725,12/27/2025,Laptop,Electronics,9,37998,East,Credit Card,Pending
+726,12/28/2025,Monitor, ELECTRONICS ,8,50706,West,Cash,completed
+727,12/29/2025,Laptop,electronics,7,36599,South,Debit Card,COMPLETED
+728,12/30/2025,Keyboard,Electronics,7,5583,East,UPI,Completed
+729,12/31/2025,Mouse,electronics,8,6960,East,Net Banking,Pending
+730,1/1/2025,Tablet,Electronics,5,44784,East,Credit Card,Cancelled
+731,1/2/2025,Tablet,Electronics,4,13373,South,Cash,Completed
+732,1/3/2025,Tablet,Electronics,5,42556,West,UPI,completed
+733,1/4/2025,Keyboard,Electronics,8,25133,South,Debit Card,Pending
+734,1/5/2025,Monitor,Electronics,6,68198,North,Net Banking,COMPLETED
+735,1/6/2025,Keyboard,electronics,5,9100,West,Credit Card,Completed
+736,1/7/2025,Phone,Electronics,4,23272,South,Cash,Cancelled
+737,1/8/2025,Laptop,electronics,8,4834,North,UPI,Pending
+738,1/9/2025,Tablet,electronics,6,,West,Debit Card,Completed
+739,1/10/2025,Keyboard,Electronics,1,16736,South,Net Banking,completed
+740,1/11/2025,,Electronics,8,78362,South,Credit Card,COMPLETED
+741,1/12/2025,Monitor, ELECTRONICS ,3,45621,East,Cash,Completed
+742,1/13/2025,Mouse,Electronics,1,37864,West,UPI,Cancelled
+743,1/14/2025,Laptop,electronics,4,75507,South,Debit Card,Pending
+744,1/15/2025,Mouse,electronics,5,27596,West,Net Banking,Completed
+745,1/16/2025,Keyboard,Electronics,8,1666,South,Credit Card,completed
+746,1/17/2025,Mouse,electronics,1,79292,South,Cash,COMPLETED
+747,1/18/2025,Tablet, ELECTRONICS ,7,36594,West,UPI,Completed
+748,1/19/2025,Tablet,Electronics,4,33529,West,Debit Card,Pending
+749,1/20/2025,Tablet,Electronics,2,77109,North,Net Banking,Cancelled
+750,1/21/2025,Keyboard, ELECTRONICS ,10,74091,East,Credit Card,Completed
+751,1/22/2025,Tablet,Electronics,2,63642,East,UPI,Completed
+752,1/23/2025,Tablet, ELECTRONICS ,5,36791,East,Credit Card,Pending
+753,1/24/2025,Phone,electronics,4,68302,North,Debit Card,Completed
+754,1/25/2025,Keyboard,Electronics,3,42388,North,Cash,Cancelled
+755,1/26/2025,Mouse,Electronics,5,39245,West,Net Banking,Completed
+756,1/27/2025,Monitor,Electronics,10,5129,South,upi,completed
+757,1/28/2025,Tablet,electronics,8,70575,East,UPI,COMPLETED
+758,1/29/2025,Keyboard, ELECTRONICS ,9,22780,South,Credit Card,Pending
+759,1/30/2025,Tablet,Electronics,3,62206,East,Cash,Completed
+760,1/31/2025,Mouse,electronics,2,44492,South,Debit Card,Cancelled
+761,2/1/2025,Tablet,electronics,7,40750,East,UPI,Completed
+762,2/2/2025,Tablet, ELECTRONICS ,5,77251,West,Net Banking,Pending
+763,2/3/2025,Laptop,Electronics,10,7535,North,upi,completed
+764,2/4/2025,Monitor,electronics,2,66098,West,Credit Card,COMPLETED
+765,2/5/2025,Keyboard, ELECTRONICS ,1,54646,South,Cash,Completed
+766,2/6/2025,Phone,electronics,7,45414,West,Debit Card,Pending
+767,2/7/2025,Phone, ELECTRONICS ,2,24139,West,UPI,Cancelled
+768,2/8/2025,Tablet,electronics,1,41579,North,Net Banking,Completed
+769,2/9/2025,Monitor, ELECTRONICS ,3,27944,South,Credit Card,completed
+770,2/10/2025,Monitor,Electronics,10,17461,West,Cash,COMPLETED
+771,2/11/2025,Mouse,Electronics,7,53373,West,UPI,Pending
+772,2/12/2025,Monitor,Electronics,9,5444,South,Debit Card,Completed
+773,2/13/2025,Mouse, ELECTRONICS ,6,2345,South,Net Banking,Cancelled
+774,2/14/2025,Laptop,Electronics,4,33113,East,upi,Completed
+775,2/15/2025,Tablet,electronics,7,13962,East,Credit Card,Pending
+776,2/16/2025,Phone,Electronics,5,6492,East,Cash,completed
+777,2/17/2025,, ELECTRONICS ,3,57341,East,Debit Card,COMPLETED
+778,2/18/2025,Monitor, ELECTRONICS ,3,25197,West,UPI,Completed
+779,2/19/2025,Laptop,electronics,3,,South,Net Banking,Pending
+780,2/20/2025,Mouse,Electronics,9,77792,South,Credit Card,Cancelled
+781,2/21/2025,Laptop, ELECTRONICS ,7,5397,East,Cash,Completed
+782,2/22/2025,Keyboard,Electronics,1,78346,North,UPI,completed
+783,2/23/2025,Mouse,Electronics,2,6822,West,Debit Card,Pending
+784,2/24/2025,Monitor,Electronics,9,16699,East,Net Banking,COMPLETED
+785,2/25/2025,Monitor,electronics,1,27434,East,Credit Card,Completed
+786,2/26/2025,Monitor,Electronics,5,68697,South,Cash,Cancelled
+787,2/27/2025,Monitor,Electronics,10,67554,North,UPI,Pending
+788,2/28/2025,Tablet,Electronics,8,14428,South,Debit Card,Completed
+789,3/1/2025,Keyboard,electronics,9,34971,South,Net Banking,completed
+790,3/2/2025,Tablet,Electronics,3,39212,North,Credit Card,COMPLETED
+791,3/3/2025,Keyboard,Electronics,8,27722,East,Cash,Completed
+792,3/4/2025,Phone,Electronics,2,2171,North,UPI,Cancelled
+793,3/5/2025,Keyboard,Electronics,2,20048,North,Debit Card,Pending
+794,3/6/2025,Mouse,Electronics,4,34040,West,Net Banking,Completed
+795,3/7/2025,Tablet, ELECTRONICS ,1,61353,North,Credit Card,completed
+796,3/8/2025,Phone,Electronics,6,38585,East,Cash,COMPLETED
+797,3/9/2025,Monitor,Electronics,1,12951,North,UPI,Completed
+798,3/10/2025,Phone,electronics,6,43578,West,Debit Card,Pending
+799,3/11/2025,Keyboard, ELECTRONICS ,6,12683,East,Net Banking,Cancelled
+800,3/12/2025,Phone,Electronics,7,53030,West,Credit Card,Completed
+801,3/13/2025,Tablet,Electronics,7,63184,South,UPI,Completed
+802,3/14/2025,Laptop,electronics,3,8186,North,Credit Card,Pending
+803,3/15/2025,Monitor,Electronics,8,75072,South,Debit Card,Completed
+804,3/16/2025,Keyboard,Electronics,10,47502,North,Cash,Cancelled
+805,3/17/2025,Mouse,electronics,8,63818,North,Net Banking,Completed
+806,3/18/2025,Monitor,Electronics,2,6525,East,upi,completed
+807,3/19/2025,Mouse, ELECTRONICS ,9,2120,South,UPI,COMPLETED
+808,3/20/2025,Mouse, ELECTRONICS ,9,68539,North,Credit Card,Pending
+809,3/21/2025,Monitor,electronics,6,63667,West,Cash,Completed
+810,3/22/2025,Phone,Electronics,3,2026,West,Debit Card,Cancelled
+811,3/23/2025,Monitor,electronics,8,10312,East,UPI,Completed
+812,3/24/2025,Phone, ELECTRONICS ,1,36958,South,Net Banking,Pending
+813,3/25/2025,Keyboard,Electronics,4,53358,North,upi,completed
+814,3/26/2025,,Electronics,8,75608,North,Credit Card,COMPLETED
+815,3/27/2025,Monitor,Electronics,2,41926,West,Cash,Completed
+816,3/28/2025,Mouse,Electronics,7,13953,West,Debit Card,Pending
+817,3/29/2025,Laptop,Electronics,10,12413,East,UPI,Cancelled
+818,3/30/2025,Keyboard,electronics,6,60296,East,Net Banking,Completed
+819,3/31/2025,Laptop,electronics,6,60066,West,Credit Card,completed
+820,4/1/2025,Mouse, ELECTRONICS ,2,,North,Cash,COMPLETED
+821,4/2/2025,Mouse,electronics,6,787,East,UPI,Pending
+822,4/3/2025,Mouse, ELECTRONICS ,9,72286,East,Debit Card,Completed
+823,4/4/2025,Mouse,Electronics,3,6500,West,Net Banking,Cancelled
+824,4/5/2025,Phone,Electronics,5,14519,South,upi,Completed
+825,4/6/2025,Phone,Electronics,4,51997,West,Credit Card,Pending
+826,4/7/2025,Phone, ELECTRONICS ,7,14625,North,Cash,completed
+827,4/8/2025,Mouse,Electronics,8,59548,South,Debit Card,COMPLETED
+828,4/9/2025,Monitor,Electronics,1,70015,West,UPI,Completed
+829,4/10/2025,Keyboard,Electronics,3,67128,South,Net Banking,Pending
+830,4/11/2025,Mouse,electronics,7,14073,East,Credit Card,Cancelled
+831,4/12/2025,Keyboard,Electronics,10,55375,South,Cash,Completed
+832,4/13/2025,Tablet,Electronics,5,45439,West,UPI,completed
+833,4/14/2025,Phone,electronics,10,54599,East,Debit Card,Pending
+834,4/15/2025,Mouse, ELECTRONICS ,4,73059,South,Net Banking,COMPLETED
+835,4/16/2025,Phone, ELECTRONICS ,3,45758,South,Credit Card,Completed
+836,4/17/2025,Keyboard, ELECTRONICS ,6,15626,West,Cash,Cancelled
+837,4/18/2025,Keyboard,Electronics,5,70479,West,UPI,Pending
+838,4/19/2025,Laptop,Electronics,7,3812,South,Debit Card,Completed
+839,4/20/2025,Laptop,Electronics,5,26701,South,Net Banking,completed
+840,4/21/2025,Tablet, ELECTRONICS ,1,19692,East,Credit Card,COMPLETED
+841,4/22/2025,Phone,Electronics,8,47513,North,Cash,Completed
+842,4/23/2025,Keyboard,electronics,7,74066,South,UPI,Cancelled
+843,4/24/2025,Keyboard, ELECTRONICS ,7,6657,West,Debit Card,Pending
+844,4/25/2025,Monitor, ELECTRONICS ,1,72868,North,Net Banking,Completed
+845,4/26/2025,Mouse, ELECTRONICS ,10,27119,West,Credit Card,completed
+846,4/27/2025,Phone, ELECTRONICS ,9,77620,South,Cash,COMPLETED
+847,4/28/2025,Mouse,electronics,8,39058,South,UPI,Completed
+848,4/29/2025,Mouse,Electronics,3,25007,North,Debit Card,Pending
+849,4/30/2025,Monitor,Electronics,5,56665,East,Net Banking,Cancelled
+850,5/1/2025,Phone,electronics,5,77044,North,Credit Card,Completed
+851,5/2/2025,,Electronics,1,20790,South,UPI,Completed
+852,5/3/2025,Tablet,Electronics,8,39972,East,Credit Card,Pending
+853,5/4/2025,Laptop, ELECTRONICS ,4,69364,South,Debit Card,Completed
+854,5/5/2025,Keyboard,Electronics,3,66709,West,Cash,Cancelled
+855,5/6/2025,Keyboard,Electronics,6,12551,South,Net Banking,Completed
+856,5/7/2025,Phone, ELECTRONICS ,6,43893,East,upi,completed
+857,5/8/2025,Phone,Electronics,1,74075,North,UPI,COMPLETED
+858,5/9/2025,Mouse, ELECTRONICS ,4,58914,South,Credit Card,Pending
+859,5/10/2025,Laptop, ELECTRONICS ,2,50487,West,Cash,Completed
+860,5/11/2025,Tablet, ELECTRONICS ,9,3738,East,Debit Card,Cancelled
+861,5/12/2025,Keyboard,Electronics,1,,East,UPI,Completed
+862,5/13/2025,Mouse,electronics,9,42484,North,Net Banking,Pending
+863,5/14/2025,Laptop,electronics,9,71013,North,upi,completed
+864,5/15/2025,Mouse,Electronics,4,28127,West,Credit Card,COMPLETED
+865,5/16/2025,Laptop,electronics,7,70984,North,Cash,Completed
+866,5/17/2025,Mouse,electronics,8,3613,East,Debit Card,Pending
+867,5/18/2025,Laptop,Electronics,1,10100,South,UPI,Cancelled
+868,5/19/2025,Tablet,Electronics,4,75861,East,Net Banking,Completed
+869,5/20/2025,Monitor,Electronics,7,59629,West,Credit Card,completed
+870,5/21/2025,Tablet,Electronics,2,51552,North,Cash,COMPLETED
+871,5/22/2025,Mouse,Electronics,1,77256,North,UPI,Pending
+872,5/23/2025,Tablet,Electronics,5,38489,North,Debit Card,Completed
+873,5/24/2025,Tablet,Electronics,7,50492,North,Net Banking,Cancelled
+874,5/25/2025,Monitor,electronics,4,70422,South,upi,Completed
+875,5/26/2025,Mouse,Electronics,5,72029,South,Credit Card,Pending
+876,5/27/2025,Tablet, ELECTRONICS ,9,1961,South,Cash,completed
+877,5/28/2025,Laptop,Electronics,10,1159,West,Debit Card,COMPLETED
+878,5/29/2025,Keyboard,Electronics,4,40436,East,UPI,Completed
+879,5/30/2025,Phone,Electronics,3,67681,South,Net Banking,Pending
+880,5/31/2025,Phone,electronics,4,33627,North,Credit Card,Cancelled
+881,6/1/2025,Phone,Electronics,8,72439,North,Cash,Completed
+882,6/2/2025,Tablet,Electronics,2,33358,South,UPI,completed
+883,6/3/2025,Mouse,Electronics,6,43865,South,Debit Card,Pending
+884,6/4/2025,Mouse,electronics,5,13613,North,Net Banking,COMPLETED
+885,6/5/2025,Phone, ELECTRONICS ,8,64182,East,Credit Card,Completed
+886,6/6/2025,Keyboard, ELECTRONICS ,3,77068,East,Cash,Cancelled
+887,6/7/2025,Tablet,Electronics,1,22603,East,UPI,Pending
+888,6/8/2025,,electronics,5,57663,East,Debit Card,Completed
+889,6/9/2025,Phone, ELECTRONICS ,8,63408,West,Net Banking,completed
+890,6/10/2025,Tablet, ELECTRONICS ,9,64328,North,Credit Card,COMPLETED
+891,6/11/2025,Phone,Electronics,3,37280,South,Cash,Completed
+892,6/12/2025,Tablet,Electronics,1,10382,North,UPI,Cancelled
+893,6/13/2025,Keyboard,Electronics,4,77837,North,Debit Card,Pending
+894,6/14/2025,Keyboard, ELECTRONICS ,9,71733,West,Net Banking,Completed
+895,6/15/2025,Mouse,electronics,7,48448,South,Credit Card,completed
+896,6/16/2025,Keyboard, ELECTRONICS ,8,18048,North,Cash,COMPLETED
+897,6/17/2025,Monitor, ELECTRONICS ,1,66320,South,UPI,Completed
+898,6/18/2025,Keyboard,electronics,3,67888,West,Debit Card,Pending
+899,6/19/2025,Phone,electronics,10,74733,South,Net Banking,Cancelled
+900,6/20/2025,Mouse,Electronics,1,47528,South,Credit Card,Completed
+901,6/21/2025,Monitor,electronics,5,8739,East,UPI,Completed
+902,6/22/2025,Phone,Electronics,9,,East,Credit Card,Pending
+903,6/23/2025,Monitor,Electronics,1,60091,North,Debit Card,Completed
+904,6/24/2025,Mouse, ELECTRONICS ,9,14029,East,Cash,Cancelled
+905,6/25/2025,Mouse, ELECTRONICS ,9,76342,South,Net Banking,Completed
+906,6/26/2025,Monitor,Electronics,10,48380,North,upi,completed
+907,6/27/2025,Keyboard, ELECTRONICS ,4,49826,West,UPI,COMPLETED
+908,6/28/2025,Tablet, ELECTRONICS ,8,64313,North,Credit Card,Pending
+909,6/29/2025,Keyboard,electronics,3,58158,South,Cash,Completed
+910,6/30/2025,Laptop, ELECTRONICS ,3,28223,South,Debit Card,Cancelled
+911,7/1/2025,Phone, ELECTRONICS ,2,79408,South,UPI,Completed
+912,7/2/2025,Monitor, ELECTRONICS ,8,15355,West,Net Banking,Pending
+913,7/3/2025,Monitor,electronics,3,77936,West,upi,completed
+914,7/4/2025,Laptop,electronics,3,6155,South,Credit Card,COMPLETED
+915,7/5/2025,Phone,Electronics,3,75508,North,Cash,Completed
+916,7/6/2025,Phone, ELECTRONICS ,9,24097,West,Debit Card,Pending
+917,7/7/2025,Keyboard,Electronics,2,37652,South,UPI,Cancelled
+918,7/8/2025,Monitor,Electronics,3,63633,South,Net Banking,Completed
+919,7/9/2025,Monitor,electronics,3,76868,East,Credit Card,completed
+920,7/10/2025,Phone, ELECTRONICS ,10,59937,North,Cash,COMPLETED
+921,7/11/2025,Phone,Electronics,3,51023,North,UPI,Pending
+922,7/12/2025,Laptop,electronics,9,69012,West,Debit Card,Completed
+923,7/13/2025,Phone,Electronics,8,23755,North,Net Banking,Cancelled
+924,7/14/2025,Keyboard,Electronics,8,12714,South,upi,Completed
+925,7/15/2025,,Electronics,9,57057,West,Credit Card,Pending
+926,7/16/2025,Tablet,Electronics,7,69944,South,Cash,completed
+927,7/17/2025,Monitor,Electronics,10,46443,North,Debit Card,COMPLETED
+928,7/18/2025,Monitor,electronics,8,33860,South,UPI,Completed
+929,7/19/2025,Laptop, ELECTRONICS ,9,78919,West,Net Banking,Pending
+930,7/20/2025,Tablet,electronics,1,1216,North,Credit Card,Cancelled
+931,7/21/2025,Keyboard,Electronics,4,49655,East,Cash,Completed
+932,7/22/2025,Monitor, ELECTRONICS ,3,14470,West,UPI,completed
+933,7/23/2025,Mouse, ELECTRONICS ,9,34749,West,Debit Card,Pending
+934,7/24/2025,Keyboard, ELECTRONICS ,7,36618,South,Net Banking,COMPLETED
+935,7/25/2025,Monitor,Electronics,6,23925,West,Credit Card,Completed
+936,7/26/2025,Tablet, ELECTRONICS ,6,76213,West,Cash,Cancelled
+937,7/27/2025,Mouse,electronics,4,16108,West,UPI,Pending
+938,7/28/2025,Mouse,electronics,4,13643,West,Debit Card,Completed
+939,7/29/2025,Tablet,Electronics,7,21568,North,Net Banking,completed
+940,7/30/2025,Laptop,electronics,10,62322,West,Credit Card,COMPLETED
+941,7/31/2025,Laptop,Electronics,4,34983,East,Cash,Completed
+942,8/1/2025,Laptop,Electronics,7,50874,East,UPI,Cancelled
+943,8/2/2025,Mouse,Electronics,8,,West,Debit Card,Pending
+944,8/3/2025,Laptop,electronics,5,68415,South,Net Banking,Completed
+945,8/4/2025,Laptop,electronics,1,22714,East,Credit Card,completed
+946,8/5/2025,Phone,Electronics,2,21136,East,Cash,COMPLETED
+947,8/6/2025,Monitor, ELECTRONICS ,7,52292,South,UPI,Completed
+948,8/7/2025,Keyboard,Electronics,2,9493,East,Debit Card,Pending
+949,8/8/2025,Mouse, ELECTRONICS ,5,46044,South,Net Banking,Cancelled
+950,8/9/2025,Keyboard,electronics,7,60106,North,Credit Card,Completed
+951,8/10/2025,Tablet,electronics,9,53863,North,UPI,Completed
+952,8/11/2025,Keyboard,Electronics,5,66451,East,Credit Card,Pending
+953,8/12/2025,Laptop, ELECTRONICS ,10,71004,East,Debit Card,Completed
+954,8/13/2025,Mouse,Electronics,10,49924,West,Cash,Cancelled
+955,8/14/2025,Phone, ELECTRONICS ,8,60642,North,Net Banking,Completed
+956,8/15/2025,Monitor,Electronics,2,34292,West,upi,completed
+957,8/16/2025,Mouse,electronics,6,30637,West,UPI,COMPLETED
+958,8/17/2025,Tablet,Electronics,4,35017,East,Credit Card,Pending
+959,8/18/2025,Laptop,Electronics,2,45325,South,Cash,Completed
+960,8/19/2025,Monitor, ELECTRONICS ,4,46838,East,Debit Card,Cancelled
+961,8/20/2025,Phone,electronics,4,65904,South,UPI,Completed
+962,8/21/2025,,electronics,4,35287,South,Net Banking,Pending
+963,8/22/2025,Phone,electronics,3,47165,North,upi,completed
+964,8/23/2025,Laptop,Electronics,10,65074,North,Credit Card,COMPLETED
+965,8/24/2025,Keyboard,Electronics,6,63714,East,Cash,Completed
+966,8/25/2025,Monitor, ELECTRONICS ,3,64830,East,Debit Card,Pending
+967,8/26/2025,Monitor,electronics,3,76084,North,UPI,Cancelled
+968,8/27/2025,Keyboard,Electronics,9,63194,North,Net Banking,Completed
+969,8/28/2025,Keyboard, ELECTRONICS ,3,52105,West,Credit Card,completed
+970,8/29/2025,Laptop,Electronics,1,41873,North,Cash,COMPLETED
+971,8/30/2025,Mouse,electronics,10,50232,North,UPI,Pending
+972,8/31/2025,Tablet, ELECTRONICS ,3,34539,East,Debit Card,Completed
+973,9/1/2025,Phone, ELECTRONICS ,10,62280,East,Net Banking,Cancelled
+974,9/2/2025,Tablet,electronics,7,65874,South,upi,Completed
+975,9/3/2025,Monitor, ELECTRONICS ,7,48351,East,Credit Card,Pending
+976,9/4/2025,Monitor,electronics,3,75395,South,Cash,completed
+977,9/5/2025,Laptop, ELECTRONICS ,9,31407,West,Debit Card,COMPLETED
+978,9/6/2025,Monitor,electronics,3,19616,West,UPI,Completed
+979,9/7/2025,Laptop,electronics,8,55749,South,Net Banking,Pending
+980,9/8/2025,Mouse, ELECTRONICS ,5,64282,East,Credit Card,Cancelled
+981,9/9/2025,Keyboard,Electronics,2,52719,South,Cash,Completed
+982,9/10/2025,Laptop,electronics,8,33830,North,UPI,completed
+983,9/11/2025,Monitor, ELECTRONICS ,6,34548,East,Debit Card,Pending
+984,9/12/2025,Keyboard, ELECTRONICS ,1,,West,Net Banking,COMPLETED
+985,9/13/2025,Laptop, ELECTRONICS ,4,79874,South,Credit Card,Completed
+986,9/14/2025,Tablet, ELECTRONICS ,9,43110,West,Cash,Cancelled
+987,9/15/2025,Mouse,Electronics,7,10777,East,UPI,Pending
+988,9/16/2025,Monitor,electronics,6,22464,West,Debit Card,Completed
+989,9/17/2025,Mouse,Electronics,2,9851,South,Net Banking,completed
+990,9/18/2025,Tablet,electronics,6,41588,East,Credit Card,COMPLETED
+991,9/19/2025,Mouse, ELECTRONICS ,7,79849,East,Cash,Completed
+992,9/20/2025,Monitor, ELECTRONICS ,9,77428,West,UPI,Cancelled
+993,9/21/2025,Monitor,electronics,1,24602,South,Debit Card,Pending
+994,9/22/2025,Mouse,electronics,2,33483,South,Net Banking,Completed
+995,9/23/2025,Phone,Electronics,2,14001,North,Credit Card,completed
+996,9/24/2025,Monitor,Electronics,7,3955,North,Cash,COMPLETED
+997,9/25/2025,Laptop, ELECTRONICS ,2,20852,West,UPI,Completed
+998,9/26/2025,Tablet,electronics,5,32926,West,Debit Card,Pending
+999,9/27/2025,,electronics,9,17706,South,,Cancelled
+1000,9/28/2025,Laptop,Electronics,6,47271,West,Credit Card,Completed
+51,2/21/2025,Monitor,Electronics,5,51673,West,UPI,Completed
+52,2/22/2025,Tablet,Electronics,8,73345,South,Credit Card,Pending
+53,2/23/2025,Phone, ELECTRONICS ,1,29034,North,Debit Card,Completed
+54,2/24/2025,Mouse, ELECTRONICS ,1,7992,West,Cash,Cancelled
+55,2/25/2025,Keyboard,electronics,9,7955,North,Net Banking,Completed
+56,2/26/2025,Phone,Electronics,2,78492,South,upi,completed
+57,2/27/2025,Monitor,Electronics,4,75168,North,UPI,COMPLETED
+58,2/28/2025,Keyboard,Electronics,10,55448,East,Credit Card,Pending
+59,3/1/2025,Tablet,electronics,4,41680,East,Cash,Completed
+60,3/2/2025,Monitor,electronics,8,39821,East,Debit Card,Cancelled
+61,3/3/2025,Laptop,Electronics,10,60568,North,UPI,Completed
+62,3/4/2025,Laptop,electronics,5,66807,South,Net Banking,Pending
+63,3/5/2025,Tablet,Electronics,6,32518,East,upi,completed
+64,3/6/2025,Phone,Electronics,5,71700,North,Credit Card,COMPLETED
+65,3/7/2025,Mouse, ELECTRONICS ,3,14077,East,Cash,Completed
+66,3/8/2025,Laptop,Electronics,3,73012,East,Debit Card,Pending
+67,3/9/2025,Tablet,electronics,4,45442,East,UPI,Cancelled
+68,3/10/2025,Keyboard,Electronics,1,33414,North,Net Banking,Completed
+69,3/11/2025,Mouse,Electronics,1,36765,North,Credit Card,completed
+70,3/12/2025,Tablet,electronics,3,34835,West,Cash,COMPLETED
+71,3/13/2025,Keyboard,Electronics,1,74019,North,UPI,Pending
+72,3/14/2025,Laptop,electronics,1,72011,East,Debit Card,Completed
+73,3/15/2025,Keyboard,electronics,3,56833,North,Net Banking,Cancelled
+74,3/16/2025,, ELECTRONICS ,6,5729,South,upi,Completed
+75,3/17/2025,Mouse,electronics,6,13973,West,Credit Card,Pending
+76,3/18/2025,Keyboard,electronics,3,31529,South,Cash,completed
+77,3/19/2025,Monitor,Electronics,6,24009,West,Debit Card,COMPLETED
+78,3/20/2025,Mouse,electronics,3,35470,North,UPI,Completed
+79,3/21/2025,Monitor,Electronics,4,62194,South,Net Banking,Pending
+80,3/22/2025,Monitor, ELECTRONICS ,4,40501,South,Credit Card,Cancelled
